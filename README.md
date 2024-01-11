@@ -2,6 +2,8 @@
 
 Um projeto Flutter para dividir as despesas da casa de praia igualmente entre os participantes. Onde as pessoas pagarão com base no total das despesas dividido pela quantidade de pessoas e por dias passados na casa
 
+para realizar os cálculos é feito uma média ponderada dividindo o valor total gasto dividido pela quantidade de pessoas que ficaram x dias multiplicado por x dias.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
